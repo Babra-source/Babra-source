@@ -7,7 +7,8 @@ Machine Learning, and Software Engineering.
 
 I'm currently learning, building, and documenting my journey through projects
 and technical blogs.
-Check out my repositories below or read my technical blogs to follow my journey:
+
+Read my [technical blogs](https://babra-source.github.io) to follow my journey.
 
 **Fun Facts:**
 - I love cartoons 📺
