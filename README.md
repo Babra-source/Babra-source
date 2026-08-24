@@ -8,9 +8,6 @@ Machine Learning, and Software Engineering.
 I write about what I'm learning, building, and exploring in AI and software engineering on my technical blog.
 Read my [technical blogs](https://babra-source.github.io) to follow my journey.
 
-**Fun Facts:**
-- I love cartoons 📺
-- I love cooking 🍳
 
 
 
