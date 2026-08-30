@@ -1,6 +1,6 @@
 ### 🎀 Babra-source 
 
-# Hola! 👋
+# Hola! 
 
 I'm Beatrice, a Computer Science graduate interested in Artificial Intelligence,
 Machine Learning, and Software Engineering.
@@ -12,9 +12,8 @@ Read my [technical blogs](https://babra-source.github.io) to follow my journey.
 
 
 
----
 
-### 🛠️ Skills
+###  Skills
 
 **Languages:** ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
 
@@ -24,5 +23,3 @@ Read my [technical blogs](https://babra-source.github.io) to follow my journey.
 
 **Databases:** ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 
-
----
